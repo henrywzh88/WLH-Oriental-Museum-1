@@ -4,3 +4,8 @@ By using html, css, and javascript, I created a website called the WLH Oriental 
 In addition, I used python modules, namely re, and urllib to gather useful information online such as the pricing of artifact.
 After that, I used python modules, including numpy, pandas, and matplotlib to create both 2D and 3D graphical presentation.
 Finally, by using matplotlib animation, I recorded the graph and put it in my website.
+
+The Team:
+Henry Wu
+Ben Lo
+Kinsley Han
